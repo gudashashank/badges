@@ -6,7 +6,7 @@ Creating badges description to showcase key certifications and technical achieve
 
 ## 1. Microsoft Certified: Fabric Data Engineer Associate
 
-**Badge**: ![Microsoft Fabric Data Engineer](https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fabric-data-engineer-associate.svg)
+**Badge**: Microsoft Fabric Data Engineer
 
 **Description**:  
 Demonstrates expertise in implementing and managing data pipelines and lakehouses using Microsoft Fabric. Covers end-to-end data workflows with tools like Data Factory, Dataflows, Lakehouse, and Synapse.
@@ -21,7 +21,7 @@ Demonstrates expertise in implementing and managing data pipelines and lakehouse
 
 ## 2. Microsoft Certified: Power BI Data Analyst Associate
 
-**Badge**: ![Microsoft Power BI Data Analyst](https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-power-bi-data-analyst-associate.svg)
+**Badge**: Microsoft Power BI Data Analyst 
 
 **Description**:  
 Validates the ability to analyze data and create insightful visualizations using Power BI. Emphasizes data preparation, modeling, visualization, and report distribution.
