@@ -1,7 +1,5 @@
 # 🎓 Badges
 
-Creating badges description to showcase key certifications and technical achievements.
-
 ---
 
 ## 1. Microsoft Certified: Fabric Data Engineer Associate
